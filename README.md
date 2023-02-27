@@ -1,6 +1,6 @@
 <p align="center">
-  <a href="https://github.com/logann131">
-    <img src="./assets/brmeira.png" alt="Bruno Meira" /></a>
+  <a href="https://github.com/brun0meira">
+    <img src="./assets/brun0meira.png" alt="Bruno Meira" /></a>
 </p>
 
 
