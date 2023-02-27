@@ -14,3 +14,7 @@
   <a href="http://www.github.com/brun0meira"><img width="38.25%" src="https://brmeira-github-readme-stats.vercel.app/api/top-langs/?username=brun0meira&langs_count=10&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117"/></a>
 </div>
 <img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%">
+
+## 🎧 Spotify Playing
+
+[![Spotify](https://spotify-readme-stats-brun0meira.vercel.app/api/spotify)](https://open.spotify.com/user/bruno321_br)
