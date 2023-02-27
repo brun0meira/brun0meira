@@ -1,5 +1,10 @@
-### Hi there 👋
-<hr>
+### Hi Friend, I'm Bruno Meira 👋
+<br>
+
+
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Heebo&weight=500&size=26&duration=2000&pause=500&color=C778DD&center=true&vCenter=true&width=500&lines=Front-end+web+development;Game+Developer;JavaScript+%7C+React+%7C+CSS;S%C3%A3o+Paulo+-+Brazil" alt="Typing SVG" /></a>
+</p>
 
 <img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%">
 <div align="center">
