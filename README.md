@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="http://www.github.com/brun0meira"><img src="https://readme-typing-svg.demolab.com?font=Heebo&size=30&duration=2000&pause=100000&color=C778DD&center=true&vCenter=true&width=500&lines=Hi+There+%F0%9F%91%8B%2C+It%E2%80%99s+Bruno" alt="Typing SVG" /></a>
+  <a href="http://www.github.com/brun0meira"><img src="https://readme-typing-svg.demolab.com?font=Heebo&weight=500&size=32&duration=2000&pause=100000&color=C778DD&center=true&vCenter=true&width=500&lines=Hi+There+%F0%9F%91%8B%2C+It%E2%80%99s+Bruno" alt="Typing SVG" /></a>
 </p>
 
 <p align="center">
@@ -37,3 +37,10 @@
 ## 🎧 Spotify Playing
 
 [![Spotify](https://spotify-readme-stats-brun0meira.vercel.app/api/spotify)](https://open.spotify.com/user/bruno321_br)
+##
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/brun0meira/brun0meira/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/brun0meira/brun0meira/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/brun0meira/brun0meira/output/github-contribution-grid-snake.svg">
+</picture>
