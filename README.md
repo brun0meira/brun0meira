@@ -1,6 +1,5 @@
 <p align="center">
-  <a href="https://github.com/brun0meira">
-    <img src="./assets/brun0meira.png" alt="Bruno Meira" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Heebo&size=30&duration=2000&pause=5000&color=C778DD&center=true&vCenter=true&width=500&lines=Hi+There+%F0%9F%91%8B%2C+It%E2%80%99s+Bruno+Meira" alt="Typing SVG" /></a>
 </p>
 
 
