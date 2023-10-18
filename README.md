@@ -1,7 +1,10 @@
 <p align="center">
-  <a href="http://www.github.com/brun0meira"><img src="https://readme-typing-svg.demolab.com?font=Heebo&weight=500&size=32&duration=2000&pause=100000&color=C778DD&center=true&vCenter=true&width=500&lines=Hi+There+%F0%9F%91%8B%2C+It%E2%80%99s+Bruno" alt="Typing SVG" /></a>
+  <a href="https://github.com/brun0meira">
+    <img src="https://github.com/brun0meira/brun0meira/assets/99202553/41544cfd-2629-44bc-8da6-2a776b34ec23" alt="banner" />
+  </a>
 </p>
-
+<br />
+<br />
 <p align="center">
   <a href="http://www.github.com/brun0meira"><img src="https://readme-typing-svg.demolab.com?font=Heebo&weight=500&size=26&duration=2000&pause=500&color=C778DD&center=true&vCenter=true&width=500&lines=Front-end+web+development;Game+Developer;JavaScript+%7C+React+%7C+CSS;S%C3%A3o+Paulo+-+Brazil" alt="Typing SVG" /></a>
 </p>
@@ -14,10 +17,10 @@
     name: 'Bruno Meira',
     age: '19',
     skills: 'Front-End Developer',
-    tech: 'HTML, CSS, JavaScript, TypeScript, React',
+    tech: ['HTML', 'CSS', 'JavaScript', 'TypeScript', 'React', 'AWS'],
     extra: 'Figma',
-    alreadyWorked: 'NestJS, NodeJS, C++, Python, SQL, MongoDB',
-    interest: 'NextJS, Cypress, Vue, Unity Engine'
+    alreadyWorked: ['NestJS', 'NodeJS', 'C++', 'Python', 'SQL', 'MongoDB'],
+    interest: ['NextJS', 'Cypress', 'Vue', 'Unity Engine']'
   };
 ```
 
