@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/brun0meira">
-    <img src="https://github.com/brun0meira/brun0meira/assets/99202553/41544cfd-2629-44bc-8da6-2a776b34ec23" alt="banner" />
+    <img src="https://github.com/brun0meira/brun0meira/assets/99202553/6e104b5d-4895-47df-adfe-771ba6c80e7a" alt="banner" />
   </a>
 </p>
 <br />
