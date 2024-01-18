@@ -10,19 +10,6 @@
 
 ##
 
-```js
-
-  const Me = { //i used const because I'm CONSTantly evolving
-    name: 'Bruno Meira',
-    age: '19',
-    skills: 'Front-End Developer',
-    tech: ['HTML', 'CSS', 'JavaScript', 'TypeScript', 'React', 'AWS'],
-    extra: 'Figma',
-    alreadyWorked: ['NestJS', 'NodeJS', 'C++', 'Python', 'SQL', 'MongoDB'],
-    interest: ['NextJS', 'Cypress', 'Vue', 'Unity Engine']'
-  };
-```
-
 ## 📝 Portfolios and Resume 
 
 👉 Here is my updated [*resume*](https://drive.google.com/uc?export=download&id=1bP8JMlzKl0tQeP6Kn18f71r8nqnYgEiI)<br/>
