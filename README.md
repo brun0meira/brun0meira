@@ -12,7 +12,7 @@
 
 ## 📝 Portfolios and Resume 
 
-👉 Here is my updated [*resume*](https://drive.google.com/uc?export=download&id=1mLxpzxuIYkOD-7esa2C5WRVHf11pL7kt)<br/>
+👉 Here is my updated [*resume*](https://drive.google.com/uc?export=download&id=123lJnfZqy5rAT79U_gmx2IK0NkhiIFfu)<br/>
 👉 Here is my [*portfolio*](https://personal-portfolio-sigma-three.vercel.app/)
 
 <img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%">
