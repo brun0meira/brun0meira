@@ -14,10 +14,10 @@
   <summary><h3>✨ Resumes ✨</h3></summary>
 
   <p align="left">
-    <a href="https://drive.google.com/file/d/123lJnfZqy5rAT79U_gmx2IK0NkhiIFfu/view"><img width="275" src="https://brmeira-github-readme-stats.vercel.app/api/pin/?username=brun0meira&repo=Full-Stack-Resume&theme=transparent&bg_color=1F222E&title_color=00C9B1&text_color=82ACF9&hide_border=false&icon_color=B792EB" alt="resume-full-stack"></a>
-    <a href="https://drive.google.com/file/d/1ifQJ1gMj6dc_h6dJjlOu2v8styGFG13C/view"><img width="275" src="https://brmeira-github-readme-stats.vercel.app/api/pin/?username=brun0meira&repo=Data-Science-Resume&theme=transparent&bg_color=1F222E&title_color=00C9B1&text_color=82ACF9&hide_border=false&icon_color=B792EB" alt="resume-data-science">
+    <a href="https://drive.google.com/file/d/123lJnfZqy5rAT79U_gmx2IK0NkhiIFfu/view"><img width="315" src="https://brmeira-github-readme-stats.vercel.app/api/pin/?username=brun0meira&repo=Full-Stack-Resume&theme=transparent&bg_color=1F222E&title_color=00C9B1&text_color=82ACF9&hide_border=false&icon_color=B792EB" alt="resume-full-stack"></a>
+    <a href="https://drive.google.com/file/d/1ifQJ1gMj6dc_h6dJjlOu2v8styGFG13C/view"><img width="315" src="https://brmeira-github-readme-stats.vercel.app/api/pin/?username=brun0meira&repo=Data-Science-Resume&theme=transparent&bg_color=1F222E&title_color=00C9B1&text_color=82ACF9&hide_border=false&icon_color=B792EB" alt="resume-data-science">
     </a>
-    <a href="https://personal-portfolio-sigma-three.vercel.app/"><img width="275" src="https://brmeira-github-readme-stats.vercel.app/api/pin/?username=brun0meira&repo=Bruno-s-Portfolio&theme=transparent&bg_color=1F222E&title_color=00C9B1&text_color=82ACF9&hide_border=false&icon_color=B792EB" alt="portfolio">
+    <a href="https://personal-portfolio-sigma-three.vercel.app/"><img width="315" src="https://brmeira-github-readme-stats.vercel.app/api/pin/?username=brun0meira&repo=Bruno-s-Portfolio&theme=transparent&bg_color=1F222E&title_color=00C9B1&text_color=82ACF9&hide_border=false&icon_color=B792EB" alt="portfolio">
     </a>
   </p>
 </details>
