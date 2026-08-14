@@ -43,7 +43,8 @@
 
 ## 🎧 Spotify Playing
 
-[![Spotify](https://spotify-readme-stats-brun0meira.vercel.app/api/spotify)](https://open.spotify.com/user/bruno321_br)
+[![Spotify](https://spotify-readme-stats.vercel.app/api/spotify)](https://open.spotify.com/user/bruno321_br)
+
 ##
 
 <picture>
